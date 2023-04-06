@@ -1,4 +1,4 @@
-//Nguon: https://gochocit.com/ky-thuat-lap-trinh/thuat-toan-tim-kiem-nhi-phan-binary-search#2-cai-dat-thuat-toan-tim-kiem-nhi-phan-dung-de-quy
+//Nguon: https://gochocit.com
 
 int BinarySearch_Recursive(int a[],int x,int left,int right){
 	if(left>right){
