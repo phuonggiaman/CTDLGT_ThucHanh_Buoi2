@@ -1,4 +1,4 @@
-//Nguon: gochocit.com
+//Nguon: https://gochocit.com
 int LinearSearch(int a[], int n, int x)
 {
 	int i=0;
